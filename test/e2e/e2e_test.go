@@ -34,7 +34,7 @@ import (
 )
 
 // namespace where the project is deployed in
-const namespace = "openkruise-controller-system"
+const namespace = "kuberik-system"
 
 // serviceAccountName created for the project
 const serviceAccountName = "openkruise-controller-controller-manager"
